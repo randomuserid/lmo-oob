@@ -5,7 +5,7 @@ import socket
 import random
 import string
 
-ports = [80,443,445,8080,3389,22,21]
+ports = [20,21,22,23,25,26,53,80,135,139,443,445,1433,1723,3128,3389,4500,5800,6665,6666,6667,6668,6669,8000,8080,9001,9030]
 domain = "letmeoutofyour.net"
 dns = "malicious.link"
 verbose = True
